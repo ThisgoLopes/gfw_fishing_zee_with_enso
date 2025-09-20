@@ -1,7 +1,6 @@
 # Avaliação da Atividade de Pesca na ZEE com APIs do Global Fishing Watch
 
 ![R Version](https://img.shields.io/badge/R-%3E%3D4.2.0-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![Contributions](https://img.shields.io/badge/contributions-bem%20vindas-orange)
 
