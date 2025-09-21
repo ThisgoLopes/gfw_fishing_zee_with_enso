@@ -2,3 +2,13 @@
 .Rhistory
 .RData
 .Ruserdata
+# Dados brutos e arquivos grandes
+*.csv
+*.RData
+*.RDataTmp
+*.gpkg
+*.zip
+# Diretórios de dados que não devem ir pro GitHub
+data/raw/
+data/tmp/
+
