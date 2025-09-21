@@ -2,6 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+.RDataTmp
 # Dados brutos e arquivos grandes
 *.csv
 *.RData
