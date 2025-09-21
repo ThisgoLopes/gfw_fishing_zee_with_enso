@@ -1,0 +1,10 @@
+# Ignorar tudo
+*
+
+# Mas manter estes arquivos
+!enso.r
+!install.r
+!analise_gfw_enso_4wings.r
+!eventos_pesca_zee_oni.r
+!.gitignore
+!README.md
